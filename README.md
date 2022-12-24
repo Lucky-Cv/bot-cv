@@ -1,9 +1,9 @@
 # **💥LUCKY💥**
 
-## El bot terminado 
+## bot terminado 
 
 ### `SI NECESITAS AYUDA, CONTACTAME`
-<a href="http://wa.me/34642919120" target="blank"><img src="https://img.shields.io/badge/LUCKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/34642919120" target="blank"><img src="https://img.shields.io/badge/Valencia-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 ### `INSTALACION TERMUX`
