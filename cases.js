@@ -2160,6 +2160,7 @@ a.push([b[c]])
 }
 break*/
 case 'send':{
+  if (!valencia) return reply(mess.owner)
 if (!q) return reply(`Ej: ${prefix+command} 5493865362429`)
 num = q.split("|")[0].replace(/[^0-9]/g, '')+'@s.whatsapp.net'
 jumlah = '30'
