@@ -39,7 +39,7 @@
 
 • Cada vez que realices una modificacion en el
 • Repositorio del Bot (tu GitHub), puedes usar 
-• El comando #actualizar para que se actualicen los datos
+• El comando git pull #actualizar para que se actualicen los datos
 
 • Aconsejable maximo 30 grupos, despues 
 • De esa cantidad el Bot empieza a ir 
