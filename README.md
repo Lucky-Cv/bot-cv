@@ -15,9 +15,9 @@
 • cd bot-cv
 • apt-get update
 • apt-get install -y
-• apt-get install ffmpeg -y
-• apt-get install imagemagick -y
-• apt-get install webp -y
+• apt-get install ffmpeg 
+• apt-get install imagemagick 
+• apt-get install webp 
 • apt-get upgrade -y
 • rm -rf /var/lib/apt/lists/*
 • npm install
