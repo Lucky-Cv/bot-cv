@@ -6,7 +6,7 @@ const { default: connConnect, useSingleFileAuthState, DisconnectReason, fetchLat
 const { color, bgcolor } = require('./lib/color')
 const colors = require('colors')
 const { uncache, nocache } = require('./lib/loader')
-const { state, saveState, saveCreds } = useMultiFileAuthState(`./session.json`)
+const { state } = useSingleFileAuthState(`./session.json`)
 const { start } = require('./lib/spinner')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep, reSize } = require('./lib/myfunc')
