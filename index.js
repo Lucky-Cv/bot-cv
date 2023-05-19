@@ -1,4 +1,4 @@
-
+const prefix = require('./config.js')
 const { modul } = require('./module');
 const { baileys, boom, chalk, fs, figlet, FileType, path, pino, process, PhoneNumber } = modul;
 const { Boom } = boom
